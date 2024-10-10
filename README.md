@@ -29,5 +29,5 @@ Ensure you have the following:
 
 1. Clone this repository to your server:
    ```bash
-   git clone https://github.com/your-username/batch-user-creation-mycomp.git
-   cd batch-user-creation-mycomp
+   git clone https://github.com/Athul-T-S/Account-creation.git
+   cd Account-creation
